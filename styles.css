@@ -34,6 +34,7 @@ body {
 .post-title {
     display: flex;
     flex-direction: column;
+    font-size: small;
 }
 
 .post-header i.fa-ellipsis-vertical {
